@@ -10,3 +10,6 @@
 - **5회차 과제** : [C언어 5회차](https://github.com/NullBins/KKnock-Study/blob/main/C-Language/%EC%BC%80%EC%9D%B4%EB%85%B9_C%EC%96%B8%EC%96%B4_5%ED%9A%8C%EC%B0%A8_%EA%B3%BC%EC%A0%9C(17%EC%B5%9C%EB%8F%99%ED%98%84).pdf)
 - **6회차 과제** : [C언어 6회차](https://github.com/NullBins/KKnock-Study/blob/main/C-Language/%EC%BC%80%EC%9D%B4%EB%85%B9_C%EC%96%B8%EC%96%B4_6%ED%9A%8C%EC%B0%A8_%EA%B3%BC%EC%A0%9C(17%EC%B5%9C%EB%8F%99%ED%98%84).pdf)
 - **7회차 과제** : [C언어 7회차](https://github.com/NullBins/KKnock-Study/blob/main/C-Language/%EC%BC%80%EC%9D%B4%EB%85%B9_C%EC%96%B8%EC%96%B4_7%ED%9A%8C%EC%B0%A8_%EA%B3%BC%EC%A0%9C(17%EC%B5%9C%EB%8F%99%ED%98%84).pdf)
+
+## 🌐 KKnock Web 해킹 스터디 정리
+- **Web Hacking** : [웹해킹_정리](https://choits.notion.site/K-knock-Web-Hacking-33ea4a4cd7a780e1b8b5f91f92ded508)
