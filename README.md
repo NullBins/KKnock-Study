@@ -26,6 +26,6 @@
 - **12회차 과제** : [Web 해킹 12회차](./Web-Hacking/케이녹_웹해킹_12회차_과제(17최동현).pdf)
 - **Web Hacking** : [Web 해킹 기초 정리](https://choits.notion.site/K-knock-Web-Hacking-833a4a4cd7a7838ba2110128b5ae5c71)
 
-## 🌐 KKnock Reverse 엔지니어링 스터디 정리
+## ⚙️ KKnock Reverse 엔지니어링 스터디 정리
 - **1회차 과제** : [Reversing 1회차](./Reversing/케이녹_리버싱_1회차_과제(17최동현).pdf)
 - **2회차 과제** : [Reversing 2회차](./Reversing/케이녹_리버싱_2회차_과제(17최동현).pdf)
