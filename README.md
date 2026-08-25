@@ -36,3 +36,6 @@
 
 ## 🐚 KKnock Pwnable (System Hacking) 스터디 정리
 - **1회차 조사과제** : [Pwnable 1회차 조사](./Pwnable/케이녹_포너블_1회차_조사과제(17최동현).pdf)
+- **1회차 과제** : [Pwnable 1회차](./Pwnable/케이녹_포너블_1회차_과제(17최동현).pdf)
+- **2회차 과제** : [Pwnable 2회차](./Pwnable/케이녹_포너블_2회차_과제(17최동현).pdf)
+- **3회차 과제** : [Pwnable 3회차](./Pwnable/케이녹_포너블_3회차_과제(17최동현).pdf)
